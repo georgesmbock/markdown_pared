@@ -1,0 +1,4 @@
+jupytext
+rise
+myst-parser
+
